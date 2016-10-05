@@ -1,0 +1,267 @@
+C:\Users\Valdir\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCadastroAgencia.resources
+C:\Users\Valdir\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCadastroCliente.resources
+C:\Users\Valdir\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmMenu.resources
+C:\Users\Valdir\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.Properties.Resources.resources
+C:\Users\Valdir\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA PROJECT.csproj.GenerateResource.Cache
+C:\Users\Valdir\Desktop\GTA PROJECT\GTA PROJECT\bin\Debug\GTA PROJECT.exe
+C:\Users\Valdir\Desktop\GTA PROJECT\GTA PROJECT\bin\Debug\GTA PROJECT.pdb
+C:\Users\Valdir\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Valdir\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA PROJECT.exe
+C:\Users\Valdir\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA PROJECT.pdb
+C:\Users\Valdir\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCondicoesGerais.resources
+C:\Users\Valdir\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCoberturasAdi.resources
+C:\Users\Valdir\Desktop\GTA PROJECT\GTA PROJECT\bin\Debug\DAL.dll
+C:\Users\Valdir\Desktop\GTA PROJECT\GTA PROJECT\bin\Debug\DAL.pdb
+C:\Users\Valdir\Desktop\GTA PROJECT\GTA PROJECT\bin\Debug\BLL.dll
+C:\Users\Valdir\Desktop\GTA PROJECT\GTA PROJECT\bin\Debug\BLL.pdb
+C:\Users\Valdir\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCotacao.resources
+C:\Users\Valdir\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanos.resources
+C:\Users\Valdir\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanosDetalhes.resources
+F:\GTA PROJECT\GTA PROJECT\bin\Debug\GTA PROJECT.exe
+F:\GTA PROJECT\GTA PROJECT\bin\Debug\GTA PROJECT.pdb
+F:\GTA PROJECT\GTA PROJECT\bin\Debug\BLL.dll
+F:\GTA PROJECT\GTA PROJECT\bin\Debug\DAL.dll
+F:\GTA PROJECT\GTA PROJECT\bin\Debug\BLL.pdb
+F:\GTA PROJECT\GTA PROJECT\bin\Debug\DAL.pdb
+F:\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA PROJECT.csprojResolveAssemblyReference.cache
+F:\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCadastroAgencia.resources
+F:\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCadastroCliente.resources
+F:\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCoberturasAdi.resources
+F:\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCondicoesGerais.resources
+F:\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCotacao.resources
+F:\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmMenu.resources
+F:\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanos.resources
+F:\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanosDetalhes.resources
+F:\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.Properties.Resources.resources
+F:\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA PROJECT.csproj.GenerateResource.Cache
+F:\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA PROJECT.exe
+F:\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA PROJECT.pdb
+F:\GTA PROJECT\GTA PROJECT\bin\Debug\GTA PROJECT.exe.config
+E:\GTA PROJECT\GTA PROJECT\bin\Debug\GTA PROJECT.exe.config
+E:\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA PROJECT.exe
+E:\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA PROJECT.pdb
+C:\Users\internet\Desktop\GTA PROJECT\GTA PROJECT\bin\Debug\GTA PROJECT.exe.config
+C:\Users\internet\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA PROJECT.exe
+C:\Users\internet\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA PROJECT.pdb
+C:\Users\internet\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\internet\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCadastroAgencia.resources
+C:\Users\internet\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCadastroCliente.resources
+C:\Users\internet\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCoberturasAdi.resources
+C:\Users\internet\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCondicoesGerais.resources
+C:\Users\internet\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCotacao.resources
+C:\Users\internet\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmMenu.resources
+C:\Users\internet\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanos.resources
+C:\Users\internet\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanosDetalhes.resources
+C:\Users\internet\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.Properties.Resources.resources
+C:\Users\internet\Desktop\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA PROJECT.csproj.GenerateResource.Cache
+C:\Users\internet\Desktop\GTA PROJECT\GTA PROJECT\bin\Debug\GTA PROJECT.exe
+C:\Users\internet\Desktop\GTA PROJECT\GTA PROJECT\bin\Debug\GTA PROJECT.pdb
+C:\Users\internet\Desktop\GTA PROJECT\GTA PROJECT\bin\Debug\BLL.pdb
+C:\Users\internet\Desktop\GTA PROJECT\GTA PROJECT\bin\Debug\DAL.pdb
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Debug\GTA PROJECT.exe.config
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA PROJECT.exe
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA PROJECT.pdb
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCadastroAgencia.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCadastroCliente.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCoberturasAdi.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCondicoesGerais.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCotacao.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmMenu.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanos.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanosDetalhes.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.Properties.Resources.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA PROJECT.csproj.GenerateResource.Cache
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Debug\GTA PROJECT.exe
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Debug\GTA PROJECT.pdb
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Debug\BLL.dll
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Debug\DAL.dll
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Debug\BLL.pdb
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Debug\DAL.pdb
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmLogar.resources
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\bin\Debug\GTA PROJECT.exe.config
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA PROJECT.exe
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA PROJECT.pdb
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\bin\Debug\GTA PROJECT.exe
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\bin\Debug\GTA PROJECT.pdb
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\bin\Debug\BLL.pdb
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\bin\Debug\DAL.pdb
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmLogar.resources
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCadastroAgencia.resources
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCadastroCliente.resources
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCoberturasAdi.resources
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCondicoesGerais.resources
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCotacao.resources
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmMenu.resources
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoCorporativo.resources
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoEsporte.resources
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoInternacinal.resources
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoMaritímo.resources
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoNacional.resources
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanos.resources
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanosDetalhes.resources
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA PROJECT.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoReceptivo.resources
+C:\Users\Gabriel\Desktop\Nova pasta\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoStudent.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoCorporativo.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoEsporte.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoInternacinal.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoMaritímo.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoNacional.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoReceptivo.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoStudent.resources
+C:\Users\Valdir\Desktop\GTA PROJECT\GTA PROJECT\bin\Debug\GTA PROJECT.exe.config
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Debug\Reports.dll
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmEmitir.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmAlterarCliente.resources
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\bin\Debug\GTA PROJECT.exe.config
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\bin\Debug\GTA PROJECT.exe
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\bin\Debug\GTA PROJECT.pdb
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\bin\Debug\BLL.pdb
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\bin\Debug\DAL.pdb
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmAlterarCliente.resources
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmEmitir.resources
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmLogar.resources
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCadastroAgencia.resources
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCadastroCliente.resources
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCoberturasAdi.resources
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCondicoesGerais.resources
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCotacao.resources
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmMenu.resources
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoCorporativo.resources
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoEsporte.resources
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoInternacinal.resources
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoMaritímo.resources
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoNacional.resources
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoReceptivo.resources
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanos.resources
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanosDetalhes.resources
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoStudent.resources
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.Properties.Resources.resources
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA PROJECT.csproj.GenerateResource.Cache
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA PROJECT.exe
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Debug\GTA PROJECT.pdb
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Debug\GTA PROJECT.exe.config
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Debug\GTA PROJECT.exe
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Debug\GTA PROJECT.pdb
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Debug\BLL.dll
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Debug\BLL.pdb
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmAlterarAgencia.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmAlterarCliente.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmEmitir.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmLogar.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCadastroAgencia.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCadastroCliente.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCoberturasAdi.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCondicoesGerais.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCotacao.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmMenu.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoCorporativo.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoEsporte.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoInternacinal.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoMaritímo.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoNacional.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoReceptivo.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanos.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoStudent.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmSplashScreen.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA PROJECT.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA PROJECT.exe
+C:\Users\Gabriel\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA PROJECT.pdb
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Debug\GTA PROJECT.exe.config
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Debug\GTA PROJECT.exe
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Debug\GTA PROJECT.pdb
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Debug\BLL.dll
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Debug\Reports.dll
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Debug\BLL.pdb
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmAlterarAgencia.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmAlterarCliente.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmEmitir.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmLogar.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCadastroAgencia.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCadastroCliente.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCoberturasAdi.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCondicoesGerais.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCotacao.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmMenu.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoCorporativo.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoEsporte.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoInternacinal.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoMaritímo.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoNacional.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoReceptivo.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanos.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoStudent.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmSplashScreen.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.Properties.Resources.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA PROJECT.csproj.GenerateResource.Cache
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA PROJECT.exe
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA PROJECT.pdb
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Debug\GTA PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\bin\Debug\GTA PROJECT.exe.config
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA PROJECT.exe
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA PROJECT.pdb
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\bin\Debug\GTA PROJECT.exe
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\bin\Debug\GTA PROJECT.pdb
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\bin\Debug\BLL.dll
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\bin\Debug\BLL.pdb
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmAlterarAgencia.resources
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmAlterarCliente.resources
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmEmitir.resources
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmLogar.resources
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCadastroAgencia.resources
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCadastroCliente.resources
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCoberturasAdi.resources
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCondicoesGerais.resources
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCotacao.resources
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmMenu.resources
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoCorporativo.resources
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoEsporte.resources
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoInternacinal.resources
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoMaritímo.resources
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoNacional.resources
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoReceptivo.resources
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanos.resources
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoStudent.resources
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmSplashScreen.resources
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.Properties.Resources.resources
+C:\Users\Valdir\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA PROJECT.csproj.GenerateResource.Cache
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\bin\Debug\GTA PROJECT.exe.config
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA PROJECT.exe
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA PROJECT.pdb
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\bin\Debug\GTA PROJECT.exe
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\bin\Debug\GTA PROJECT.pdb
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\bin\Debug\BLL.dll
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\bin\Debug\BLL.pdb
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmAlterarAgencia.resources
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmAlterarCliente.resources
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmEmitir.resources
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmLogar.resources
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCadastroAgencia.resources
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCadastroCliente.resources
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCoberturasAdi.resources
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCondicoesGerais.resources
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmCotacao.resources
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmMenu.resources
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoCorporativo.resources
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoEsporte.resources
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoInternacinal.resources
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoMaritímo.resources
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoNacional.resources
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoReceptivo.resources
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanos.resources
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmPlanoStudent.resources
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.frmSplashScreen.resources
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA_PROJECT.Properties.Resources.resources
+C:\Users\valdi\Desktop\PROJETO EGW3\GTA PROJECT\GTA PROJECT\obj\x86\Debug\GTA PROJECT.csproj.GenerateResource.Cache

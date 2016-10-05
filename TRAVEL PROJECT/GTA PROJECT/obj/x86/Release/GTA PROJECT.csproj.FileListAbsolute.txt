@@ -1,0 +1,178 @@
+E:\GTA PROJECT\GTA PROJECT\obj\x86\Release\GTA PROJECT.exe
+E:\GTA PROJECT\GTA PROJECT\obj\x86\Release\GTA PROJECT.pdb
+E:\GTA PROJECT\GTA PROJECT\bin\Release\GTA PROJECT.exe
+E:\GTA PROJECT\GTA PROJECT\bin\Release\GTA PROJECT.pdb
+E:\GTA PROJECT\GTA PROJECT\bin\Release\BLL.dll
+E:\GTA PROJECT\GTA PROJECT\bin\Release\DAL.dll
+E:\GTA PROJECT\GTA PROJECT\bin\Release\BLL.pdb
+E:\GTA PROJECT\GTA PROJECT\bin\Release\DAL.pdb
+E:\GTA PROJECT\GTA PROJECT\obj\x86\Release\ResolveAssemblyReference.cache
+E:\GTA PROJECT\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCadastroAgencia.resources
+E:\GTA PROJECT\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCadastroCliente.resources
+E:\GTA PROJECT\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCoberturasAdi.resources
+E:\GTA PROJECT\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCondicoesGerais.resources
+E:\GTA PROJECT\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCotacao.resources
+E:\GTA PROJECT\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmMenu.resources
+E:\GTA PROJECT\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanos.resources
+E:\GTA PROJECT\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanosDetalhes.resources
+E:\GTA PROJECT\GTA PROJECT\obj\x86\Release\GTA_PROJECT.Properties.Resources.resources
+E:\GTA PROJECT\GTA PROJECT\obj\x86\Release\GenerateResource.read.1.tlog
+E:\GTA PROJECT\GTA PROJECT\obj\x86\Release\GenerateResource.write.1.tlog
+F:\GTA PROJECT\GTA PROJECT\obj\x86\Release\GTA PROJECT.exe
+F:\GTA PROJECT\GTA PROJECT\obj\x86\Release\GTA PROJECT.pdb
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Release\GTA PROJECT.exe.config
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Release\GTA PROJECT.exe
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Release\GTA PROJECT.pdb
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Release\BLL.dll
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Release\DAL.dll
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Release\BLL.pdb
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Release\DAL.pdb
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCadastroAgencia.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCadastroCliente.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCoberturasAdi.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCondicoesGerais.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCotacao.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmMenu.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanos.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanosDetalhes.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.Properties.Resources.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA PROJECT.csproj.GenerateResource.Cache
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA PROJECT.exe
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA PROJECT.pdb
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmLogar.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoCorporativo.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoEsporte.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoInternacinal.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoMaritímo.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoNacional.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoReceptivo.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoStudent.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Release\DevComponents.DotNetBar2.dll
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Release\Reports.dll
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmEmitir.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Release\DevComponents.DotNetBar.Design.dll
+C:\Users\Valdir\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmAlterarCliente.resources
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\bin\Release\GTA PROJECT.exe.config
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA PROJECT.exe
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA PROJECT.pdb
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA PROJECT.csprojResolveAssemblyReference.cache
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmAlterarCliente.resources
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmEmitir.resources
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmLogar.resources
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCadastroAgencia.resources
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCadastroCliente.resources
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCoberturasAdi.resources
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCondicoesGerais.resources
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCotacao.resources
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmMenu.resources
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoCorporativo.resources
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoEsporte.resources
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoInternacinal.resources
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoMaritímo.resources
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoNacional.resources
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoReceptivo.resources
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanos.resources
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanosDetalhes.resources
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoStudent.resources
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.Properties.Resources.resources
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA PROJECT.csproj.GenerateResource.Cache
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\bin\Release\GTA PROJECT.exe
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\bin\Release\GTA PROJECT.pdb
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\bin\Release\BLL.dll
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\bin\Release\DAL.dll
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\bin\Release\BLL.pdb
+E:\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\bin\Release\DAL.pdb
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\bin\Release\GTA PROJECT.exe.config
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\bin\Release\GTA PROJECT.exe
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\bin\Release\GTA PROJECT.pdb
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\bin\Release\BLL.dll
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\bin\Release\DAL.dll
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\bin\Release\BLL.pdb
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\bin\Release\DAL.pdb
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmAlterarCliente.resources
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmEmitir.resources
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmLogar.resources
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCadastroAgencia.resources
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCadastroCliente.resources
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCoberturasAdi.resources
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCondicoesGerais.resources
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCotacao.resources
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmMenu.resources
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoCorporativo.resources
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoEsporte.resources
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoInternacinal.resources
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoMaritímo.resources
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoNacional.resources
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoReceptivo.resources
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanos.resources
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanosDetalhes.resources
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoStudent.resources
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA PROJECT.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA PROJECT.exe
+C:\Users\Gabriel\Desktop\PROJETO - EGW\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA PROJECT.pdb
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Release\GTA PROJECT.exe.config
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA PROJECT.exe
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA PROJECT.pdb
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Release\GTA PROJECT.exe
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Release\GTA PROJECT.pdb
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Release\DevComponents.DotNetBar.Design.dll
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\bin\Release\DevComponents.DotNetBar2.dll
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmAlterarCliente.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmEmitir.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmLogar.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCadastroAgencia.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCadastroCliente.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCoberturasAdi.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCondicoesGerais.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCotacao.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmMenu.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoCorporativo.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoEsporte.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoInternacinal.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoMaritímo.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoNacional.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoReceptivo.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanos.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanosDetalhes.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoStudent.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA_PROJECT.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA PROJECT.csproj.GenerateResource.Cache
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\bin\Release\GTA PROJECT.exe.config
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA PROJECT.exe
+C:\Users\Valdir\Music\GTA PROJECT_01\GTA PROJECT\obj\x86\Release\GTA PROJECT.pdb
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Release\GTA PROJECT.exe.config
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Release\GTA PROJECT.exe
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Release\GTA PROJECT.pdb
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Release\BLL.dll
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Release\DAL.dll
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Release\DevComponents.DotNetBar.Design.dll
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Release\DevComponents.DotNetBar2.dll
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Release\Reports.dll
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Release\BLL.pdb
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\bin\Release\DAL.pdb
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmAlterarAgencia.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmAlterarCliente.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmEmitir.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmLogar.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCadastroAgencia.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCadastroCliente.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCoberturasAdi.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCondicoesGerais.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmCotacao.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmMenu.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoCorporativo.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoEsporte.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoInternacinal.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoMaritímo.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoNacional.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoReceptivo.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanos.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmPlanoStudent.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA_PROJECT.Properties.Resources.resources
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA PROJECT.csproj.GenerateResource.Cache
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA PROJECT.exe
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA PROJECT.pdb
+C:\Users\Valdir\Desktop\GTA PROJECT_02\GTA PROJECT\obj\x86\Release\GTA_PROJECT.frmSplashScreen.resources

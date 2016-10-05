@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B4703638-D695-4D15-B3CF-966188AEC6F4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GTA_PROJECT</RootNamespace>
+    <AssemblyName>GTA PROJECT</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BLL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\BLL\BLL\bin\Release\BLL.dll</HintPath>
+    </Reference>
+    <Reference Include="DAL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DAL\DAL\obj\Release\DAL.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar.Design">
+      <HintPath>..\..\DevComponents.DotNetBar.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2">
+      <HintPath>..\..\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.8.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="Reports">
+      <HintPath>..\..\Reports.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Extensions.Design" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAlterarAgencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlterarAgencia.Designer.cs">
+      <DependentUpon>frmAlterarAgencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAlterarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlterarCliente.Designer.cs">
+      <DependentUpon>frmAlterarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmitir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmitir.Designer.cs">
+      <DependentUpon>frmEmitir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplashScreen.Designer.cs">
+      <DependentUpon>frmSplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Planos_Detalhes.cs" />
+    <Compile Include="frmLogar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogar.Designer.cs">
+      <DependentUpon>frmLogar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCotacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCotacao.Designer.cs">
+      <DependentUpon>frmCotacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlanoCorporativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlanoCorporativo.Designer.cs">
+      <DependentUpon>frmPlanoCorporativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlanoEsporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlanoEsporte.Designer.cs">
+      <DependentUpon>frmPlanoEsporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlanoInternacinal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlanoInternacinal.Designer.cs">
+      <DependentUpon>frmPlanoInternacinal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlanoMaritímo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlanoMaritímo.Designer.cs">
+      <DependentUpon>frmPlanoMaritímo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlanoNacional.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlanoNacional.Designer.cs">
+      <DependentUpon>frmPlanoNacional.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlanoReceptivo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlanoReceptivo.Designer.cs">
+      <DependentUpon>frmPlanoReceptivo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlanos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlanos.Designer.cs">
+      <DependentUpon>frmPlanos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlanoStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlanoStudent.Designer.cs">
+      <DependentUpon>frmPlanoStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\ServiceReference\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="ValidaCNPJ.cs" />
+    <Compile Include="ValidaCPF.cs" />
+    <Compile Include="frmCadastroAgencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastroAgencia.Designer.cs">
+      <DependentUpon>frmCadastroAgencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastroCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastroCliente.Designer.cs">
+      <DependentUpon>frmCadastroCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCoberturasAdi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCoberturasAdi.Designer.cs">
+      <DependentUpon>frmCoberturasAdi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCondicoesGerais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCondicoesGerais.Designer.cs">
+      <DependentUpon>frmCondicoesGerais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Variaveis.cs" />
+    <EmbeddedResource Include="frmAlterarAgencia.resx">
+      <DependentUpon>frmAlterarAgencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlterarCliente.resx">
+      <DependentUpon>frmAlterarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmitir.resx">
+      <DependentUpon>frmEmitir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogar.resx">
+      <DependentUpon>frmLogar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastroAgencia.resx">
+      <DependentUpon>frmCadastroAgencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastroCliente.resx">
+      <DependentUpon>frmCadastroCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCoberturasAdi.resx">
+      <DependentUpon>frmCoberturasAdi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCondicoesGerais.resx">
+      <DependentUpon>frmCondicoesGerais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCotacao.resx">
+      <DependentUpon>frmCotacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlanoCorporativo.resx">
+      <DependentUpon>frmPlanoCorporativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlanoEsporte.resx">
+      <DependentUpon>frmPlanoEsporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlanoInternacinal.resx">
+      <DependentUpon>frmPlanoInternacinal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlanoMaritímo.resx">
+      <DependentUpon>frmPlanoMaritímo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlanoNacional.resx">
+      <DependentUpon>frmPlanoNacional.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlanoReceptivo.resx">
+      <DependentUpon>frmPlanoReceptivo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlanos.resx">
+      <DependentUpon>frmPlanos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlanoStudent.resx">
+      <DependentUpon>frmPlanoStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplashScreen.resx">
+      <DependentUpon>frmSplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Service References\ServiceReference\FachadaWSSGS.wsdl" />
+    <None Include="Service References\ServiceReference\GTA_PROJECT.ServiceReference.WSSerieVO.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\condicoesPT.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cotacao5.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emitir5.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\ServiceReference\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServiceReference\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServiceReference\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServiceReference\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\36793.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alien Ink 2560X1600 Abstract Background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo.0-1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,6 @@
+C:\Users\Valdir\Desktop\BLL\BLL\bin\Release\BLL.dll
+C:\Users\Valdir\Desktop\BLL\BLL\bin\Release\BLL.pdb
+C:\Users\Valdir\Desktop\BLL\BLL\bin\Release\DAL.dll
+C:\Users\Valdir\Desktop\BLL\BLL\bin\Release\DAL.pdb
+C:\Users\Valdir\Desktop\BLL\BLL\obj\Release\BLL.dll
+C:\Users\Valdir\Desktop\BLL\BLL\obj\Release\BLL.pdb

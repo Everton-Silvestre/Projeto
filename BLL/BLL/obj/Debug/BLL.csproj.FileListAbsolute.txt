@@ -1,0 +1,7 @@
+C:\Users\Valdir\Desktop\BLL\BLL\bin\Debug\BLL.dll
+C:\Users\Valdir\Desktop\BLL\BLL\bin\Debug\BLL.pdb
+C:\Users\Valdir\Desktop\BLL\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Valdir\Desktop\BLL\BLL\obj\Debug\BLL.dll
+C:\Users\Valdir\Desktop\BLL\BLL\obj\Debug\BLL.pdb
+C:\Users\Valdir\Desktop\BLL\BLL\bin\Debug\DAL.dll
+C:\Users\Valdir\Desktop\BLL\BLL\bin\Debug\DAL.pdb
